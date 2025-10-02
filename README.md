@@ -2,7 +2,7 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║  🔮🕵️             CYBER-DETECTIVE ORACLE INTERFACE            🕵️🔮           ║
+║  🔮🕵️             CYBER-DEV TECH INTERFACE            🕵️🔮           ║
 ║                                                                               ║
 ║   AGENT: Kostaq Cipo                    CODENAME: "CodeOps"                   ║
 ║   RANK: DevOps Engineer • DEPARTMENT: Lufthansa Industry Solutions                                   ║
